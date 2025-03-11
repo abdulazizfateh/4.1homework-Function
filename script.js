@@ -178,7 +178,7 @@ const findTheEvenNum = (k, n) => {
 }
 console.log(findTheEvenNum(1, 11));
 
-// TASK 10.2 - With push() method
+// TASK 10.2 - With "push()" method
 // const findTheEvenNum = (k, n) => {
 //     let evenNums = [];
 //     for (let i = k; i <= n; i++) {
